@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agile</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="devices_list">Данные подключения\n</string>
+    <string name="open_list">Отключить</string>
+</resources>
